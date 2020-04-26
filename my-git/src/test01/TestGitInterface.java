@@ -6,5 +6,6 @@ public interface TestGitInterface {
 	void git3();
 	void git4();
 	void git5();
+	void git6();
 }
  
